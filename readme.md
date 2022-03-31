@@ -28,7 +28,7 @@
 </ol>
 
 <h4>Tecnologias usadas</h4>
-<p>HTML e CSS</p>
+<p>HTML e CSS e Javascript</p>
 
 <hr>
 
