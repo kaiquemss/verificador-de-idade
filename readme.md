@@ -1,6 +1,6 @@
 # README
 
-<p>Este projeto é um verificador de idade que a partir do ano selecionado traz uma respota do gênero e idade do usuário feito com HTML CSS e Javascript</p>
+<p>Este projeto é um verificador de idade que a partir do ano selecionado traz uma resposta do gênero e idade do usuário feito com HTML CSS e Javascript</p>
 
 ![Animação](https://user-images.githubusercontent.com/79489384/158085226-77067c49-a59b-4bc5-80a7-11ee1b75315d.gif)
 ![Animação2](https://user-images.githubusercontent.com/79489384/158085236-9d285574-05ac-4169-91fe-4eeee07b344d.gif)
